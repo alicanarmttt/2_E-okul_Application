@@ -1,0 +1,15 @@
+C:\Users\alica\source\repos\SQLPersonelDB\bin\Debug\SQLPersonelDB.exe.config
+C:\Users\alica\source\repos\SQLPersonelDB\bin\Debug\SQLPersonelDB.exe
+C:\Users\alica\source\repos\SQLPersonelDB\bin\Debug\SQLPersonelDB.pdb
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.Properties.Resources.resources
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.csproj.GenerateResource.cache
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.exe
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.pdb
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.FrmOgrenciler.resources
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.FrmAnaliz.resources
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.FrmNotlar.resources
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.FrmEokul.resources
+C:\Users\alica\source\repos\SQLPersonelDB\obj\Debug\SQLPersonelDB.FormLogin.resources
